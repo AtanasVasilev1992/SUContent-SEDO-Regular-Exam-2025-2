@@ -2,4 +2,3 @@
 
 ## Exam Preparation 
  Exercises for the "DevOps for Developers" module @ SoftUni
-test
